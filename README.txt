@@ -14,6 +14,6 @@ Use: on python consloe$ python SubmitRRT_NH.py
 
 Data structures used: Graph -  created with the class Graph and class Vertex (More details in the report)
 
-Learning used: Path planning part of the course, Holonomic and Non-Holonomic motions, Dubin's car and Dubin's curves.
+Learning used: ROS and Turtlebot. Path planning part of the course, Holonomic and Non-Holonomic motions, Dubin's car and Dubin's curves.
 The zip file contains the project report and additional python code of RRT for Holonomic system. 
 All the other details are mentioned on the web page and project report.
