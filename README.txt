@@ -2,7 +2,7 @@ Name: Sachin Badgujar
 Email: sbadguja@uncc.edu
 
 Program name: "Rapidly Exploring Random Tree *.py"
-Web-site: webpages.uncc.edu/sbadguja    with animations.
+Web-site: (https://webpages.uncc.edu/sbadguja/) with animations.
 Function: Generates RRT graph for Dubin's path.
 Use: on python consloe$ python SubmitRRT_NH.py
 	 1. Pygame window will pop up and will wait for you to select a qinit.
