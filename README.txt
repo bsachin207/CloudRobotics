@@ -12,7 +12,7 @@ Use: on python consloe$ python SubmitRRT_NH.py
 	 5. Program will return to state 3.
 	 6. Program will exit if you press 'ESC'
 
-Data structures used: Graph -  created with the class Graph and class Vertex (More details in the report)
+Data structures used: Graph -  created with the class Graph and class Vertex
 
 Learning used: ROS and Turtlebot. Path planning part of the course, Holonomic and Non-Holonomic motions, Dubin's car and Dubin's curves.
 The zip file contains the project report and additional python code of RRT for Holonomic system. 
